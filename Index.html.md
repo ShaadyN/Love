@@ -1,0 +1,12 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+  <title>Important Update</title>  
+</head>  
+<body style="background:black; color:lime; font-family:monospace; text-align:center;">  
+  <h1>System Message</h1>  
+  <p>Initializing love.exe...</p>  
+  <p>Loading... ████████ 100%</p>  
+  <h2>❤️ Te vagy a kedvenc projektem Dajcsikám ❤️</h2>  
+</body>  
+</html>  
